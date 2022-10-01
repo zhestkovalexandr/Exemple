@@ -1,0 +1,16 @@
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\bin\Debug\net6.0\Exemple001_HelloConsole.exe
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\bin\Debug\net6.0\Exemple001_HelloConsole.deps.json
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\bin\Debug\net6.0\Exemple001_HelloConsole.runtimeconfig.json
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\bin\Debug\net6.0\Exemple001_HelloConsole.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\bin\Debug\net6.0\ref\Exemple001_HelloConsole.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\bin\Debug\net6.0\Exemple001_HelloConsole.pdb
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.GlobalUsings.g.cs
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.AssemblyInfo.cs
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\ref\Exemple001_HelloConsole.dll
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.pdb
+C:\Users\zhest\OneDrive\Рабочий стол\GB\Repo\Exemple\Exemple\Exemple001_HelloConsole\obj\Debug\net6.0\Exemple001_HelloConsole.genruntimeconfig.cache
